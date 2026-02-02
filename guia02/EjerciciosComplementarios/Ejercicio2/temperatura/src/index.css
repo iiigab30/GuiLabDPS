@@ -1,0 +1,15 @@
+input {
+  padding: 8px;
+  margin: 10px;
+}
+
+button {
+  padding: 8px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+label {
+  display: block;
+  margin: 5px 0;
+}
