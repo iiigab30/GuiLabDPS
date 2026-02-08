@@ -13,7 +13,7 @@ Aplicación web desarrollada con React que simula una tienda, mostrando una list
 ## ▶️ Instrucciones para ejecutar el proyecto
 
 1. Clonar el repositorio:
-   git clone https://github.com/tuusuario/tienda-react.git
+   git clone https://github.com/iiigab30/GuiLabDPS.git
 
 2. Ingresar a la carpeta del proyecto:
    cd tienda-react
